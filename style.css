@@ -1,0 +1,18 @@
+.space {
+    
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+body {
+    margin: 0;
+}
+
+.center_h {
+    margin-top: 45px;
+}
+
+.center_w {
+    margin-left: 40%;
+    height: 130px;
+}
